@@ -2,5 +2,7 @@
 
 学习记录
 -------
-
-- [2018年7月第一周](https://github.com/liangsongyou/Learn-Python-One-Year/blob/master/2018-7/2018-7-Week1.md)
+ 
+- [2018年7月](2018-7/)
+  - [2018年7月第一周](2018-7/2018-7-Week1.md)
+  - [2018年7月第二周]
